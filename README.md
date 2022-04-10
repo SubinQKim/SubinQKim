@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Subin Kim, currently a first-year CS Student at UC Irvine!
 
-I love **computer science** and have a passion for both the functionality and practicality of software development. This passion has led to my interest in back-end web development!
+I love **computer science** and have a ***passion*** for both the functionality and practicality of software development. This passion has led to my interest in back-end web development!
 
 I developed an interest in computer science when I started an intro course to computer science while in high school. This wasn't any intro course to CS, this was my high school's first-ever computer science course ever introduced to the school. This inspired me to learn more about a subject that has many different pathways.
 
