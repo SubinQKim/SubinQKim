@@ -1,6 +1,4 @@
-### Hi there 👋 I am Subin Kim, currently an third-year CS Student at UC Irvine!
-
-I'm a student at UCI studying Computer Science!
+### Hi there 👋 I am Subin Kim, currently a third-year CS Student at UC Irvine!
 
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/subin-kim-bba754180/).
 
