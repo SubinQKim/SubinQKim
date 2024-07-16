@@ -1,4 +1,4 @@
-### Hi there 👋 I am Subin Kim, currently a third-year CS Student at UC Irvine!
+### Hi there 👋 I am Subin Kim CS Student at UC Irvine Class of 2025!
 
 You can reach me on my [LinkedIn](https://www.linkedin.com/in/subin-kim-bba754180/).
 
